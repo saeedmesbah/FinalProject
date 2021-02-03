@@ -20,7 +20,7 @@ public class FreezePeaShooter extends Plant{
         super(locationX, locationY, life);
         imgIcon =new ImageIcon(this.getClass().getResource("PVS Design Kit/images/Gifs/freezepeashooter.gif")).getImage();
     }
-    
+      
     @Override
     public Image getIcon(){
         return imgIcon;
