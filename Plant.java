@@ -7,7 +7,7 @@ import javax.swing.ImageIcon;
  * 
  * @author Saeed & Maryam
  */
-
+  
 public abstract class Plant {
     private int locationX;
     private int locationY;
