@@ -59,7 +59,7 @@ public class BucketHeadZombie extends Zombie{
     public int getSpeedMovement() {
         return speedMovement;
     }
-
+ 
     @Override
     public void halfSpeedMovement() {
         speedMovement=1;
