@@ -10,7 +10,7 @@ public class Player {
     private String userName;
     private int score;
     private Controller controller;
-    
+        
     
     public Player(String firstName,String lastName ,String userName){
         this.firstName=firstName;
