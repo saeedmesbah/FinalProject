@@ -30,7 +30,7 @@ public class GUI extends JPanel implements ActionListener {
     Timer zombieProducer;
     
     private SecureRandom generator = new SecureRandom();
-    
+      
     int locationY=1100;
     int stepY=2;
     
